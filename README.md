@@ -16,6 +16,11 @@ brew install exiftool jq
 
 Then obtain `moves_geotag.sh` from this repo. (Oh, you'll also need Bash. But hey - in our time it's even shipped with Windows 10!)
 
+```shell
+wget https://github.com/leonid-shevtsov/moves_geotag/raw/master/moves_geotag.sh
+chmod +x moves_geotag.sh
+```
+
 ## Usage
 
 1. Optionally mount your SD card.
